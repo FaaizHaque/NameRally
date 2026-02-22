@@ -1,0 +1,1110 @@
+Acne
+Addiction
+ADHD
+Agoraphobia
+Alcoholism
+Allergic Rhinitis
+Allergy
+Alopecia
+Altitude Sickness
+Alzheimer's Disease
+Anaemia
+Anaphylaxis
+Angina
+Anorexia Nervosa
+Anxiety Disorder
+Appendicitis
+Arthritis
+Asthma
+Atherosclerosis
+Atrial Fibrillation
+Autism Spectrum Disorder
+Autoimmune Disease
+Bipolar Disorder
+Bladder
+Brain Tumour
+Breast Cancer
+Bronchitis
+Bulimia Nervosa
+Burnout
+Carpal Tunnel Syndrome
+Cataracts
+Celiac Disease
+Cerebral Palsy
+Cervical Cancer
+Chicken Pox
+Chlamydia
+Cholera
+Cholesterol
+Chronic Fatigue Syndrome
+Chronic Pain
+Cirrhosis
+Claustrophobia
+Colon
+Colorectal Cancer
+Common Cold
+Conjunctivitis
+COPD
+Coronary Artery Disease
+COVID-19
+Crohn's Disease
+Cystic Fibrosis
+Deep Vein Thrombosis
+Dementia
+Depression
+Dermatitis
+Diabetes
+Diaphragm
+Diarrhea
+Diphtheria
+Dyslexia
+Dyspraxia
+Eating Disorder
+Ebola
+Eczema
+Emphysema
+Endometriosis
+Epidemic
+Epilepsy
+Erectile Dysfunction
+Fever
+Fibromyalgia
+Flu
+Food Poisoning
+Gallbladder
+Gallstones
+Gastritis
+Gastroenteritis
+Glaucoma
+Gonorrhoea
+Gout
+Haemophilia
+Hay Fever
+Heart Attack
+Heart Disease
+Heart Failure
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Herpes
+High Blood Pressure
+HIV
+Hormone
+HPV
+Huntington's Disease
+Hypertension
+Hyperthyroidism
+Hypoglycaemia
+Hypothyroidism
+IBS
+Infection
+Insomnia
+Kidney Disease
+Kidney Stones
+Leukaemia
+Liver Cancer
+Liver Disease
+Lung Cancer
+Lupus
+Lyme Disease
+Lymphoma
+Malaria
+Measles
+Melanoma
+Meningitis
+Migraine
+Motor Neurone Disease
+Multiple Sclerosis
+Mumps
+Myopia
+Narcolepsy
+Obesity
+OCD
+Osteoporosis
+Ovarian Cancer
+Pandemic
+Panic Disorder
+Parkinson's Disease
+PCOS
+Pneumonia
+Post-Traumatic Stress Disorder
+Prostate Cancer
+Psoriasis
+PTSD
+Rabies
+Rheumatoid Arthritis
+Rosacea
+Rubella
+Schizophrenia
+Scoliosis
+Seasonal Affective Disorder
+Sepsis
+Shingles
+Sickle Cell Disease
+Sinusitis
+Skin Cancer
+Sleep Apnoea
+Smallpox
+Spinal Cord Injury
+Stomach Cancer
+Stroke
+Tonsil
+Tonsillitis
+Tourette Syndrome
+Tuberculosis
+Typhoid
+Ulcerative Colitis
+Urinary Tract Infection
+Uterine Cancer
+Vertigo
+Whooping Cough
+Yellow Fever
+Zika Virus
+Acid Reflux
+Gastroesophageal Reflux Disease
+GERD
+Heartburn
+Peptic Ulcer Disease
+Stomach Ulcer
+Duodenal Ulcer
+Irritable Bowel Syndrome
+Lactose Intolerance
+Gluten Intolerance
+Food Allergy
+Shellfish Allergy
+Peanut Allergy
+Anemia
+Iron Deficiency Anemia
+Vitamin D Deficiency
+B12 Deficiency
+Dehydration
+Heat Exhaustion
+Heatstroke
+Hypothermia
+Frostbite
+Concussion
+Traumatic Brain Injury
+Epileptic Seizure
+Seizure Disorder
+Tension Headache
+Cluster Headache
+Migraine Aura
+Sleepwalking
+Restless Leg Syndrome
+Sleep Apnea
+Generalized Anxiety Disorder
+Social Anxiety Disorder
+Panic Attacks
+Specific Phobia
+Obsessive-Compulsive Disorder
+Body Dysmorphic Disorder
+Postpartum Depression
+Dysthymia
+Major Depressive Disorder
+Bipolar I Disorder
+Bipolar II Disorder
+Borderline Personality Disorder
+Schizoaffective Disorder
+Complex PTSD
+Binge Eating Disorder
+Type 1 Diabetes
+Type 2 Diabetes
+Gestational Diabetes
+Hypoglycemia
+Hyperglycemia
+Metabolic Syndrome
+High Cholesterol
+Hyperlipidemia
+Hypotension
+Arrhythmia
+Heart Murmur
+Congestive Heart Failure
+Angina Pectoris
+Myocardial Infarction
+Transient Ischemic Attack
+Pulmonary Embolism
+Varicose Veins
+Asthma Attack
+Chronic Bronchitis
+COPD Exacerbation
+Pneumothorax
+Pleural Effusion
+Sleep-Related Breathing Disorder
+Sinus Infection
+Laryngitis
+Pharyngitis
+Influenza
+RSV Infection
+Long COVID
+Fatty Liver Disease
+Pancreatitis
+Chronic Kidney Disease
+Acute Kidney Injury
+Pyelonephritis
+Fibroids
+Menstrual Cramps
+Menopause Symptoms
+Prostatitis
+Acne Vulgaris
+Atopic Dermatitis
+Hives
+Chickenpox
+Ringworm
+Athlete's Foot
+Scabies
+Lice Infestation
+Osteoarthritis
+Gout Attack
+Sciatica
+Herniated Disc
+Back Pain
+Neck Pain
+Tendonitis
+Bursitis
+Sprain
+Strain
+Fracture
+Dislocation
+Drug Allergy
+Dry Eye Syndrome
+Hyperopia
+Astigmatism
+Hearing Loss
+Tinnitus
+Otitis Media
+Ear Infection
+Thyroid Nodule
+Hashimoto's Thyroiditis
+Graves' Disease
+ALS
+Dengue Fever
+Zika Virus Infection
+Typhoid Fever
+Herpes Simplex
+HPV Infection
+HIV Infection
+AIDS
+Chlamydia Infection
+Gonorrhea
+Syphilis
+Septicaemia
+Colon Cancer
+Leukemia
+Brain Tumor
+Pancreatic Cancer
+Kidney Cancer
+Bladder Cancer
+Testicular Cancer
+Throat Cancer
+Esophageal Cancer
+Bone Cancer
+Heart Cancer
+Heart Infection
+Heart Inflammation
+Heart Tumor
+Liver Failure
+Liver Infection
+Liver Inflammation
+Liver Tumor
+Kidney Failure
+Kidney Infection
+Kidney Inflammation
+Kidney Tumor
+Lung Failure
+Lung Infection
+Lung Inflammation
+Lung Disease
+Lung Tumor
+Brain Cancer
+Brain Failure
+Brain Infection
+Brain Inflammation
+Brain Disease
+Skin Failure
+Skin Infection
+Skin Inflammation
+Skin Disease
+Skin Tumor
+Bone Failure
+Bone Infection
+Bone Inflammation
+Bone Disease
+Bone Tumor
+Blood Cancer
+Blood Failure
+Blood Infection
+Blood Inflammation
+Blood Disease
+Blood Tumor
+Thyroid Cancer
+Thyroid Failure
+Thyroid Infection
+Thyroid Inflammation
+Thyroid Disease
+Thyroid Tumor
+Pancreas Cancer
+Pancreas Failure
+Pancreas Infection
+Pancreas Inflammation
+Pancreas Disease
+Pancreas Tumor
+Stomach Failure
+Stomach Infection
+Stomach Inflammation
+Stomach Disease
+Stomach Tumor
+Colon Failure
+Colon Infection
+Colon Inflammation
+Colon Disease
+Colon Tumor
+Prostate Failure
+Prostate Infection
+Prostate Inflammation
+Prostate Disease
+Prostate Tumor
+Breast Failure
+Breast Infection
+Breast Inflammation
+Breast Disease
+Breast Tumor
+Ovary Cancer
+Ovary Failure
+Ovary Infection
+Ovary Inflammation
+Ovary Disease
+Ovary Tumor
+Uterus Cancer
+Uterus Failure
+Uterus Infection
+Uterus Inflammation
+Uterus Disease
+Uterus Tumor
+Bladder Failure
+Bladder Infection
+Bladder Inflammation
+Bladder Disease
+Bladder Tumor
+Cough
+Shortness of Breath
+Chest Pain
+Abdominal Pain
+Nausea
+Vomiting
+Constipation
+Fatigue
+Dizziness
+Fainting
+Rash
+Itching
+Swelling
+Headache
+Joint Pain
+Abdominal Migraine
+Abscess
+Acute Respiratory Distress Syndrome
+Adenomyosis
+Adrenal Insufficiency
+Adrenal Tumor
+Alcohol Withdrawal
+Allergic Conjunctivitis
+Anal Fissure
+Anal Fistula
+Ankylosing Spondylitis
+Anorectal Abscess
+Aortic Aneurysm
+Aortic Stenosis
+Aphasia
+Aplastic Anemia
+Arrhythmogenic Cardiomyopathy
+Arteriosclerosis
+Ascites
+Asperger Syndrome
+Aspiration Pneumonia
+Avascular Necrosis
+Barrett's Esophagus
+Bell's Palsy
+Benign Prostatic Hyperplasia
+Bile Duct Obstruction
+Binge Drinking
+Blepharitis
+Blood Clot
+Bone Spur
+Borderline Hypertension
+Bowel Obstruction
+Bradycardia
+Brain Hemorrhage
+Brain Swelling
+Bruxism
+Bunion
+Burn Injury
+Calcific Tendonitis
+Campylobacter Infection
+Cancer Pain
+Candida Infection
+Carotid Artery Disease
+Cat Scratch Fever
+Chalazion
+Chronic Sinusitis
+Chronic Stress
+Cold Sores
+Colitis
+Compartment Syndrome
+Contact Dermatitis
+Costochondritis
+Croup
+Cushing Syndrome
+Cyclic Vomiting Syndrome
+Cystitis
+De Quervain's Tenosynovitis
+Dehydration Headache
+Dental Abscess
+Dental Caries
+Dental Infection
+Dermatomyositis
+Diabetic Neuropathy
+Diabetic Retinopathy
+Diverticulitis
+Diverticulosis
+Drug Dependence
+Dry Mouth
+DVT
+Earwax Impaction
+Ectopic Pregnancy
+Encephalitis
+Enlarged Prostate
+Enterovirus Infection
+Esophagitis
+Essential Tremor
+Eye Stye
+Facet Joint Syndrome
+Fatty Liver
+Fetal Alcohol Syndrome
+Fibroid Tumors
+Folliculitis
+Food Intolerance
+Fractured Rib
+Frozen Shoulder
+Fungal Nail Infection
+Gallbladder Inflammation
+Ganglion Cyst
+Gastric Ulcer
+Gastrointestinal Bleeding
+Generalized Seizure
+Genital Herpes
+Genital Warts
+Giardia Infection
+Gilbert Syndrome
+Gingivitis
+Glomerulonephritis
+Goodpasture Syndrome
+Grief Disorder
+Guillain-Barré Syndrome
+H. pylori Infection
+Hallucinations
+Hamstring Strain
+Heat Rash
+Hemorrhoids
+Hernia
+Hiatal Hernia
+High Triglycerides
+Hip Fracture
+Hookworm Infection
+Hot Flashes
+Hydrocele
+Hyperkalemia
+Hyperparathyroidism
+Hypokalemia
+Hypoparathyroidism
+Hypovolemic Shock
+Impetigo
+Inguinal Hernia
+Interstitial Cystitis
+Iritis
+Iron Overload
+Ischemic Heart Disease
+Jaw Pain
+Jet Lag
+Keloid Scar
+Keratosis Pilaris
+Knee Osteoarthritis
+Knee Pain
+Labyrinthitis
+Laryngopharyngeal Reflux
+Leg Cramps
+Leg Ulcer
+Leprosy
+Low Blood Sugar
+Low Blood Pressure
+Low Back Strain
+Lymphadenitis
+Lymphedema
+Macular Degeneration
+Malabsorption
+Male Pattern Baldness
+Mastitis
+Measles Complication
+Medical Shock
+Medication Overdose
+Melasma
+Memory Loss
+Meniscal Tear
+Metatarsalgia
+Mitral Valve Prolapse
+Motion Sickness
+Mouth Ulcer
+Myasthenia Gravis
+Myocarditis
+Nasal Polyps
+Nephrotic Syndrome
+Nerve Compression
+Neuropathy
+Night Sweats
+Norovirus Infection
+Obstructive Sleep Apnea
+Osteomyelitis
+Otitis Externa
+Overactive Bladder
+Panic Attack
+Paresthesia
+Pelvic Inflammatory Disease
+Pericarditis
+Peripheral Artery Disease
+Peripheral Neuropathy
+Pertussis
+Plantar Fasciitis
+Pleurisy
+Polycystic Kidney Disease
+Postural Orthostatic Tachycardia Syndrome
+POTS
+Postpartum Anxiety
+Postpartum Psychosis
+Pre-Diabetes
+Premenstrual Dysphoric Disorder
+Pressure Ulcer
+Psoriatic Arthritis
+Pulmonary Fibrosis
+Pulmonary Hypertension
+Raynaud's Phenomenon
+Reactive Arthritis
+Reflux Esophagitis
+Retinal Detachment
+Rickets
+Rotator Cuff Tear
+Salmonella Infection
+Scalp Psoriasis
+Scarlet Fever
+Sciatic Nerve Pain
+Severe Dehydration
+Sexually Transmitted Infection
+Shin Splints
+Shoulder Impingement
+Sjögren's Syndrome
+Sleep Paralysis
+Slipped Disc
+Spina Bifida
+Spinal Stenosis
+Staph Infection
+Strep Throat
+Stress Fracture
+Substance Abuse
+Sunburn
+Swimmer's Ear
+Tachycardia
+Tennis Elbow
+Thalassemia
+Thrombocytopenia
+Thyroid Storm
+Tinea Versicolor
+Tonsil Stones
+Tooth Sensitivity
+Trigeminal Neuralgia
+Ulcer
+Urethritis
+Uveitis
+Vaginitis
+Vasculitis
+Vitamin B12 Deficiency
+Vitamin C Deficiency
+Vitreous Detachment
+Vulvodynia
+Whiplash
+Wrist Sprain
+Yeast Infection
+Ankle Sprain
+Ankle Strain
+Ankle Fracture
+Ankle Burn
+Ankle Laceration
+Ankle Contusion
+Ankle Bruise
+Wrist Strain
+Wrist Fracture
+Wrist Burn
+Wrist Laceration
+Wrist Contusion
+Wrist Bruise
+Knee Sprain
+Knee Strain
+Knee Fracture
+Knee Burn
+Knee Laceration
+Knee Contusion
+Knee Bruise
+Shoulder Sprain
+Shoulder Strain
+Shoulder Fracture
+Shoulder Burn
+Shoulder Laceration
+Shoulder Contusion
+Shoulder Bruise
+Elbow Sprain
+Elbow Strain
+Elbow Fracture
+Elbow Burn
+Elbow Laceration
+Elbow Contusion
+Elbow Bruise
+Hip Sprain
+Hip Strain
+Hip Burn
+Hip Laceration
+Hip Contusion
+Hip Bruise
+Rib Sprain
+Rib Strain
+Rib Fracture
+Rib Burn
+Rib Laceration
+Rib Contusion
+Rib Bruise
+Finger Sprain
+Finger Strain
+Finger Fracture
+Finger Burn
+Finger Laceration
+Finger Contusion
+Finger Bruise
+Toe Sprain
+Toe Strain
+Toe Fracture
+Toe Burn
+Toe Laceration
+Toe Contusion
+Toe Bruise
+Neck Sprain
+Neck Strain
+Neck Fracture
+Neck Burn
+Neck Laceration
+Neck Contusion
+Neck Bruise
+Back Sprain
+Back Strain
+Back Fracture
+Back Burn
+Back Laceration
+Back Contusion
+Back Bruise
+Arachnophobia
+Acrophobia
+Nyctophobia
+Trypanophobia
+Emetophobia
+Aerophobia
+Cynophobia
+Ophidiophobia
+Social Phobia
+Germophobia
+Mysophobia
+Actinic Keratosis
+Acute Otitis Media
+Adhesive Capsulitis
+AIDS-Related Illness
+Alcoholic Hepatitis
+Ambulatory Dysfunction
+Amenorrhea
+Amyloidosis
+Angioedema
+Antibiotic Resistance Infection
+Aortic Dissection
+Aphthous Ulcers
+Arthralgia
+Ataxia
+Atrial Flutter
+Bacterial Vaginosis
+Balanitis
+Bedsores
+Benign Positional Vertigo
+Bipolar Mania
+Bleeding Disorder
+Blindness
+Blood Loss Anemia
+Body Aches
+Bone Fracture
+Botulism
+Bronchiolitis
+Brucellosis
+Brugada Syndrome
+Burning Mouth Syndrome
+Calcaneal Spur
+Campylobacteriosis
+Canker Sores
+Carbon Monoxide Poisoning
+Cardiomyopathy
+Cataplexy
+Cellulitis
+Cervicitis
+Chagas Disease
+Chancroid
+Chapped Lips
+Chikungunya
+Chronic Migraine
+Chronic Pancreatitis
+Chronic Urticaria
+Cirrhotic Liver Disease
+Coarctation of the Aorta
+Cold Agglutinin Disease
+Colorectal Polyps
+Concussion Syndrome
+Congenital Heart Disease
+Copper Deficiency
+Corneal Abrasion
+Corneal Ulcer
+Cytomegalovirus Infection
+Dandruff
+Dehydration Shock
+Delirium
+Dermatophytosis
+Diabetic Ketoacidosis
+Dialysis Complications
+Dyspepsia
+Dysphagia
+Ehlers-Danlos Syndrome
+Electrolyte Imbalance
+Enlarged Tonsils
+Epistaxis
+Erectile Dysfunction (ED)
+Erysipelas
+Eustachian Tube Dysfunction
+Excessive Sweating
+Eye Infection
+Failed Back Surgery Syndrome
+Fatty Acid Oxidation Disorder
+Febrile Seizure
+Fecal Impaction
+Female Infertility
+Fever Blisters
+Fibrocystic Breast Changes
+Fibrositis
+Foodborne Illness
+Foot Drop
+Foreign Body Ingestion
+Frostnip
+G6PD Deficiency
+Gait Disorder
+Gastric Bleeding
+Gastric Outlet Obstruction
+Gastrointestinal Infection
+Genital Ulcers
+Gout Flare
+Group B Strep Infection
+Growth Hormone Deficiency
+Hantavirus Infection
+Hashimoto Encephalopathy
+Heat Cramps
+Helicobacter pylori Infection
+Hematemesis
+Hematuria
+Hemolytic Anemia
+Hemophilia
+Hemorrhagic Stroke
+Hepatic Encephalopathy
+Herniated Nucleus Pulposus
+High Blood Sugar
+High Blood Pressure Crisis
+High Fever
+Histoplasmosis
+Hodgkin Lymphoma
+Hyperglycemic Crisis
+Hypernatremia
+Hyperuricemia
+Hypersomnia
+Hypersensitivity Pneumonitis
+Hypocalcemia
+Hypomagnesemia
+Hyponatremia
+Hypoxemia
+Idiopathic Pulmonary Fibrosis
+Impaired Vision
+Infectious Mononucleosis
+Inflammatory Bowel Disease
+Ingrown Toenail
+Internal Bleeding
+Iron Deficiency
+Irritable Bladder
+Jaundice
+Joint Swelling
+Kaposi Sarcoma
+Kawasaki Disease
+Keratoacanthoma
+Keratitis
+Ketoacidosis
+Kidney Cysts
+Labyrinthine Disorder
+Lactation Mastitis
+Legionnaires' Disease
+Leishmaniasis
+Lichen Planus
+Lichen Sclerosus
+Liver Cirrhosis
+Liver Fibrosis
+Long QT Syndrome
+Low Potassium
+Lyme Arthritis
+Macrocytic Anemia
+Meningoencephalitis
+Mesenteric Ischemia
+Metabolic Acidosis
+Metabolic Alkalosis
+Miscarriage
+Morning Sickness
+Mucositis
+Muscle Cramps
+Muscle Weakness
+Myelodysplastic Syndrome
+Myelofibrosis
+Neurofibromatosis
+Non-Hodgkin Lymphoma
+Nosebleed
+Nutritional Deficiency
+Obesity Hypoventilation Syndrome
+Onychomycosis
+Oral Thrush
+Oropharyngeal Cancer
+Osteopenia
+Osteonecrosis
+Overdose
+Painful Urination
+Parainfluenza
+Paratyphoid Fever
+Parotitis
+Peritonitis
+Pertussis Infection
+Plague
+Pneumothorax (Collapsed Lung)
+Polio
+Polyneuropathy
+Post-Concussion Syndrome
+Postherpetic Neuralgia
+Preeclampsia
+Premature Ejaculation
+Pressure Sore
+Proteinuria
+Pruritus
+Pseudogout
+Pulmonary Edema
+Q Fever
+Radiation Sickness
+Recurrent UTI
+Respiratory Failure
+Rhabdomyolysis
+Rhinitis
+Rheumatic Fever
+Rhinovirus Infection
+Rocky Mountain Spotted Fever
+Rotavirus Infection
+Sarcoidosis
+Scalp Infection
+Septic Arthritis
+Septic Shock
+Severe Asthma
+Shigellosis
+Sickle Cell Crisis
+Sinus Headache
+Skin Abscess
+Sleep Disorder
+Small Bowel Obstruction
+Spasms
+Spondylolisthesis
+Stevens-Johnson Syndrome
+Stomach Bleeding
+Stomach Flu
+Stress Headache
+Subarachnoid Hemorrhage
+Syncope
+Tetanus
+Thyroiditis
+Tinnitus (Ringing Ears)
+Toxic Shock Syndrome
+Trichomoniasis
+Tuberculosis Infection
+Ulcerative Proctitis
+Upper Respiratory Infection
+Urticaria
+Viral Gastroenteritis
+Viral Hepatitis
+Vision Loss
+Vitamin A Deficiency
+Vitamin K Deficiency
+West Nile Virus Infection
+Wheezing
+Worm Infection
+Yellow Fever Infection
+Zoonotic Infection
+Addisonian Crisis
+Acute Coronary Syndrome
+Acute Heart Failure
+Acute Liver Failure
+Acute Pancreatitis
+Acute Stress Reaction
+Alopecia Areata
+Anaphylactic Shock
+Androgen Insensitivity Syndrome
+Angina Attack
+Ankylosis
+Anorectal Pain
+Aortic Valve Disease
+Aphthous Stomatitis
+Arrhythmia Episode
+Atopic Dermatitis Flare
+Autoimmune Hepatitis
+Bacterial Meningitis
+Bacterial Pneumonia
+Bacterial Sinusitis
+Barotrauma
+Basal Cell Carcinoma
+Behçet's Disease
+Benign Tumor
+Bile Reflux
+Biliary Colic
+Binge Eating
+Bladder Stones
+Bleeding Gums
+Blepharospasm
+Bowel Incontinence
+Brain Fog
+Breast Cyst
+Bronchial Asthma
+Carbuncle
+Cardiac Arrest
+Cardiac Ischemia
+Celiac Crisis
+Cervical Spondylosis
+Chemical Burn
+Chronic Kidney Failure
+Chronic Liver Disease
+Chronic Pain Syndrome
+Chronic Pelvic Pain
+Chronic Pharyngitis
+Chronic Tonsillitis
+Coeliac Disease
+Complicated Grief
+Conjunctival Hemorrhage
+Coronary Thrombosis
+Cystic Acne
+Cystic Fibrosis Exacerbation
+Dehydration Severe
+Delusional Disorder
+Dermatitis Herpetiformis
+Diabetic Foot Ulcer
+Diabetic Hypoglycemia
+Diabetic Hyperglycemia
+Dry Skin
+Duodenitis
+Dysarthria
+Dysmenorrhea
+Dyshidrotic Eczema
+Ear Pain
+Enlarged Lymph Nodes
+Erythema Nodosum
+Febrile Illness
+Fibroma
+Gastric Inflammation
+Genital Itching
+Gluten Sensitivity
+Hair Loss
+Heart Palpitations
+Heat Intolerance
+Hemorrhage
+Hemorrhagic Fever
+Hepatic Failure
+Herniated Disc Disease
+Herpangina
+High Blood Pressure (Hypertension)
+Hyperventilation
+Hypersensitivity Reaction
+Hypoxia
+Infected Wound
+Inflammatory Arthritis
+Influenza Complication
+Insulin Resistance
+Irregular Heartbeat
+Irritable Bowel
+Joint Stiffness
+Keratoconus
+Kidney Disorder
+Knee Injury
+Lactose Malabsorption
+Loss of Appetite
+Low Appetite
+Low Thyroid
+Lymphangitis
+Manic Episode
+Mast Cell Activation Syndrome
+Melanocytic Nevus
+Meniere's Disease
+Menorrhagia
+Metabolic Disorder
+Motion Sickness Severe
+Muscle Spasm
+Myalgia
+Myopia (Nearsightedness)
+Neck Pain Chronic
+Neuralgia
+Neuritis
+Night Blindness
+Nose Congestion
+Obstructive Airway Disease
+Optic Neuritis
+Osteitis
+Osteoarthritis Flare
+Overheating
+Pain Disorder
+Palpitations
+Panic Symptoms
+Paralysis
+Pelvic Pain
+Peripheral Vascular Disease
+Phlebitis
+Photophobia
+Pituitary Tumor
+Pneumonia Complication
+Post-Viral Fatigue
+Prehypertension
+Psoriasis Flare
+Pulmonary Disease
+Recurrent Headache
+Recurrent Infection
+Reflux Disease
+Respiratory Infection
+Restless Legs
+Seizure
+Severe Allergic Reaction
+Skin Rash
+Spinal Injury
+Stomach Pain
+Stroke Symptoms
+Sun Sensitivity
+Swollen Glands
+Throat Infection
+Thyroid Disorder
+Tremor
+Ulcer Flare
+Viral Infection
+Vision Problems
+Weakness
+Weight Loss
+Cancer
+Tumor
+Anxiety
